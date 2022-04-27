@@ -1,0 +1,1 @@
+O objetivo dessa projeto de estudo é criar um chat em tempo real com Socket.io e React Hooks.
